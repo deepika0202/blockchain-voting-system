@@ -81,4 +81,3 @@ Unsuccessful voting scenario:
 
 Notification to each candidate and voter for the winner of candidates:
 
-![](screenshots/winner_candidate_mail.PNG)
